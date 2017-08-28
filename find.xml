@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.verification.json</mask>
+      <mask>*.out</mask>
+      <mask>*.pdri</mask>
+      <mask>*.in</mask>
+      <mask>*.slim</mask>
+      <mask>*spec.rb</mask>
+      <mask>*_spe.rb</mask>
+      <mask>*_sp.rb</mask>
+      <mask>*_s.rb</mask>
+      <mask>*_.rb</mask>
+      <mask>*.rb</mask>
+      <mask>*._rb</mask>
+      <mask>*._sprb</mask>
+      <mask>*._sparb</mask>
+      <mask>*._spacerb</mask>
+      <mask>*._space.rb</mask>
+      <mask>*._spae.rb</mask>
+      <mask>*._spe.rb</mask>
+      <mask>*._spec.rb</mask>
+      <mask>*_spec.rb</mask>
+    </recentFileMasks>
+  </component>
+</application>

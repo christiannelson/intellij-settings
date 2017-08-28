@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="delme" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="configuration" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".podhook" type="PLAIN_TEXT" />
+      <mapping pattern="unicorn" type="PLAIN_TEXT" />
+      <mapping ext="rn" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping pattern="socrates" type="Ruby" />
+      <mapping pattern="setup" type="Ruby" />
+      <mapping ext="csv" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
