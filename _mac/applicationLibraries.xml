@@ -600,6 +600,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.30/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.47, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.47/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.47/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.8.11, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-2.8.11/lib" />
@@ -866,6 +874,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.30/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.30/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.30/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.47, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.47/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.8.11, rbenv: 2.4.1) [gem]">
@@ -1346,6 +1366,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.30/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.47, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.47/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.47/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.8.11, rbenv: 2.4.1) [gem]">
@@ -2752,6 +2780,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/dotenv-rails-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="draper (v3.0.0, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.0/.github" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0.pre1, rbenv: 2.4.1) [gem]">
