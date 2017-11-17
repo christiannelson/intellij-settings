@@ -9482,6 +9482,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sass-3.5.3/extra" />
       </SOURCES>
     </library>
+    <library name="sass-globbing (v1.1.5, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sass-globbing-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sass-globbing-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sass-listen-4.0.0/lib" />
