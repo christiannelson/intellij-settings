@@ -940,6 +940,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.108/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.109, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.109/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.109/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.30, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.30/lib" />
@@ -1234,6 +1242,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.108/apis" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.108/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.108/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.109, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/apis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/apis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.109/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.10.30, rbenv: 2.4.1) [gem]">
@@ -1746,6 +1766,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.108/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.109, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.109/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.109/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.10.30, rbenv: 2.4.1) [gem]">
@@ -6196,6 +6224,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/hub-1.12.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/hub-1.12.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/hub-1.12.4/man" />
+      </SOURCES>
+    </library>
+    <library name="hub (v1.12.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hub-1.12.4/man" />
       </SOURCES>
     </library>
     <library name="hurley (v0.2, rbenv: 2.4.1) [gem]">
